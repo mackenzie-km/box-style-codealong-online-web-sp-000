@@ -214,6 +214,7 @@ header {
 #navbar {
   position: fixed;
   top: 0px;
+  left: 0px;
 }
 
 /*////////// LOGO //////////*/
