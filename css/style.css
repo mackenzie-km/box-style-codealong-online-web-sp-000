@@ -206,13 +206,15 @@ img, video, audio, iframe, table, form {
 
 /*////////// HEADER //////////*/
 header {
-margin: 0 0 30px;
+  margin: 0 0 30px;
 }
 
 
 /*////////// NAVBAR //////////*/
-
-
+#navbar {
+  position: fixed;
+  top: 0px;
+}
 
 /*////////// LOGO //////////*/
 
