@@ -221,8 +221,12 @@ header {
   text-align: center;
 }
 
-#nav {
-  border-left: ;
+#navbar nav {
+  border-left: 1px solid #ccc;;
+}
+
+#navbar nav a {
+  display: inline-block;
 }
 
 /*////////// LOGO //////////*/
