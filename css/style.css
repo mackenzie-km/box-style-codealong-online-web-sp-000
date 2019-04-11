@@ -217,8 +217,12 @@ header {
   left: 0px;
   width: 100%;
   z-index: 2;
-  border: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
   text-align: center;
+}
+
+#nav {
+  border-left: ;
 }
 
 /*////////// LOGO //////////*/
