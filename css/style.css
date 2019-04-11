@@ -219,6 +219,7 @@ header {
   z-index: 2;
   border-bottom: 1px solid #ccc;
   text-align: center;
+  background: red;
 }
 
 #navbar nav {
